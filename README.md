@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gluetun is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/passteque/gluetun
+Gluetun is an open-source VPN client that runs in a lightweight Docker container, supporting multiple VPN providers via OpenVPN and WireGuard, with DNS over TLS, firewall kill‑switch, and built‑in proxy servers. It provides a swiss‑army‑knife‑like solution for users to route traffic securely through a variety of VPN services, offering extensive configuration options and frequent updates. The project is maintained on GitHub and includes comprehensive documentation, Docker images, and community support.
+
+**Areas:** VPN · Open-source · Docker · WireGuard · OpenVPN · Privacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gluetun.org)
+- [Documentation](https://gluetun.org/guides/)
+- [Getting started](https://gluetun.org/guides/docker-compose/)
+- [Support](https://gluetun.org/contact/)
+- [Terms of service](https://gluetun.org/terms/)
+- [Privacy policy](https://gluetun.org/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gluetun/](https://apis.io/providers/gluetun/).
